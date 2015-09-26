@@ -1,0 +1,12 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -1,5 +1,9 @@
+ ﻿<html>
+-	<head></head>
++	<head>
++		<title>
++			Git 소개
++		</title>
++	</head>
+ 	<body>
+ 		<header>
+ 			<h1>Git</h1>
